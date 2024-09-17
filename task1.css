@@ -1,0 +1,25 @@
+
+
+body{
+    margin: 5px 100px;
+    background-color: aquamarine;
+}
+
+#home{
+    font-family: cursive;
+    font-size: 30px;
+    color: red;
+}
+#about{
+    font-family:fantasy;
+    font-size: 30px;
+    color:brown;
+}
+#contact{
+    font-family:bold;
+    font-size:30px;
+    color:blue;
+}
+h1{
+    text-align: center;
+}
